@@ -1,8 +1,6 @@
-import environ
+from server.settings.env import env
 
-from server.env import env
-
-environ.Env.read_env()
+env.read_env()
 
 app_stage = env("DJANGO_APP_STAGE") 
 

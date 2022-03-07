@@ -3,6 +3,7 @@ api/__pycache__/
 authentication/__pycache__/
 authentication/migrations/
 server/__pycache__/
+server/settings/__pycache__/
 server/migrations/
 server/settings/.env
 utils/automigration.txt
