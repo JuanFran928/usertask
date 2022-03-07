@@ -8,4 +8,4 @@ server/settings/.env
 utils/automigration.txt
 todo.txt
 db.sqlite3
-venv/
+venv/*
