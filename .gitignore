@@ -1,0 +1,11 @@
+api/migrations/
+api/__pycache__/
+authentication/__pycache__/
+authentication/migrations/
+server/__pycache__/
+server/migrations/
+server/settings/.env
+utils/automigration.txt
+todo.txt
+db.sqlite3
+media/
